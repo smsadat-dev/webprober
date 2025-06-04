@@ -43,7 +43,7 @@ This project is in early development.
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/webprober.git
+git clone https://github.com/smsadat-dev/webprober.git
 cd webprober
 
 # Build steps (example)
